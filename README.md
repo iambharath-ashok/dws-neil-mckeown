@@ -106,12 +106,11 @@ The application will run on port **18080** by default.
    - Implement CI/CD pipelines using GitHub Actions, Jenkins, or GitLab CI.
 
 ### 10. Configuration Management
-   - Use Spring Cloud Config or HashiCorp Vault for managing sensitive configuration properties.
+   - Use Spring Cloud Config for managing sensitive configuration properties.
    - Use environment-specific profiles for easy configuration management.
 
 ### 11. Security Enhancements
    - Integrate Spring Security for role-based access and JWT-based authentication.
-   - Implement rate limiting to protect against abusive usage.
 
 ## Additional Information
 
